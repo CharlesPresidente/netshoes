@@ -22,21 +22,8 @@ The data we provide is a static JSON file under `/public/data`.
 * Test your code;
 * Instructions on how to build/run the project.
 
-# Instructions
-
-## Required software
-
-* Git: https://git-scm.com/
-* Node: https://nodejs.org/en/
-
-
-
-# NetShoes Shopping Cart Development Test
-
-## Demonstration
-[Live Demo](http://iwantproject.com.br/#/)
-
-## Build Setup
+# How to Use
+---
 
 ``` bash
 # git clone
@@ -60,12 +47,13 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 
+# run all tests
+npm test
+
 # run unit tests
 npm run unit
 
 # run e2e tests
 npm run e2e
-
-# run all tests
-npm test
 ```
+
