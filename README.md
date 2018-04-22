@@ -22,8 +22,7 @@ The data we provide is a static JSON file under `/public/data`.
 * Test your code;
 * Instructions on how to build/run the project.
 
-# How to Use
----
+## How to Use
 
 ``` bash
 # git clone
@@ -56,4 +55,7 @@ npm run unit
 # run e2e tests
 npm run e2e
 ```
+## Demo 
+[Live Demo](http://iwantproject.com.br/#/)
+
 

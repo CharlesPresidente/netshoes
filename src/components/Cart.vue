@@ -125,7 +125,7 @@ export default {
   height: 100%;
   top: 0;
   right: 0;
-  background: #202025;
+  background: #5a2d82;
   color: #fff;
   box-shadow: -10px 0 150px rgba(0, 0, 0, 0.6);
   overflow-x: hidden;
