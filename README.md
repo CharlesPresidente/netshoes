@@ -55,7 +55,3 @@ npm run unit
 # run e2e tests
 npm run e2e
 ```
-## Demo 
-[Live Demo](http://iwantproject.com.br/#/)
-
-
